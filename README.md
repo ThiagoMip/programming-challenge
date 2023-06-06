@@ -25,4 +25,4 @@ For more information, please see the [https://www.djangoproject.com/start/](http
 * [Django](https://www.djangoproject.com)
 
 ## License:
-These codes can be used by everyone by the license - [The Unlicense](https://github.com/ThiagoMip/programming-challenge/tree/main)
+These codes can be used by everyone by the license - [The Unlicense](https://github.com/ThiagoMip/programming-challenge/blob/main/LICENSE)
