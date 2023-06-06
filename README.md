@@ -22,7 +22,7 @@ For more information, please see the [https://www.djangoproject.com/start/](http
 ## Tools used:
 * [Python](https://www.python.org)
 * [Visual Studio Code](https://code.visualstudio.com)
-* [Django] (https://www.djangoproject.com)
+* [Django](https://www.djangoproject.com)
 
 ## License:
 These codes can be used by everyone by the license - [The Unlicense](https://github.com/ThiagoMip/TesteDesenvolvedor/blob/main/LICENSE)
